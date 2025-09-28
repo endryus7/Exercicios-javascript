@@ -11,3 +11,9 @@ function somaPares(arr) {
 }
 
 console.log(somaPares([1, 2, 3, 4, 5]));  // Saída: 6
+
+/*
+of no for, é usado para acessar diretamente cada valor do array arr, ou seja, cada número na lista, sem precisar do índice.
+
+of percorre a array
+*/

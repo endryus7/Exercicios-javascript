@@ -11,3 +11,8 @@ function maioresDeIdade(arr) {
 }
 
 console.log(maioresDeIdade(pessoas));  // Saída: ["João", "Carlos"]
+
+
+/*
+O .map() é um método do JavaScript usado para transformar elementos de um array em novos valores, criando um novo array com os resultados da aplicação de uma função em cada elemento do array original. Ele não altera o array original, mas retorna um novo array.
+*/
